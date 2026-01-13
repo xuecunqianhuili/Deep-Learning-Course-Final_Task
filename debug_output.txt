@@ -1,0 +1,6 @@
+Python: 3.11.6 (tags/v3.11.6:8b6ee5b, Oct  2 2023, 14:57:12) [MSC v.1935 64 bit (AMD64)]
+CUDA: True
+Transformers imported
+KeywordGenerator imported
+Loading model from results\summarizer_mt5_small
+Model loaded successfully
